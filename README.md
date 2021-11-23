@@ -1,5 +1,5 @@
 # Proyecto Final Multiprocesadores
-### Martín Octavia García García - A01328971
+### Martín Octavio García García - A01328971
 ### Víctor Darío Alor López - A01731643
 Se probarán 3 diferentes algoritmos en la computadora virtual que ocupen en sus servicios. Deberán de encontrar el número óptimo de threads para su ejecución y comparar los resultados con los tiempos obtenidos en cada uno de los equipos de los miembros del equipo.
 ## Resultados
